@@ -21,7 +21,6 @@ Run in order:
 | `02_data_preparation.R` | Loads datasets, merges longitudinal data, handles missingness |
 | `03_trajectory_clustering.R` | DTW trajectory clustering with stability/consensus analysis |
 | `04_visualisations.R` | Generates all manuscript figures and supplementary material |
-| `functions.R` | Utility functions (PCA plots, ROC curves, enrichment analysis) |
 
 ## Method
 
